@@ -1,4 +1,6 @@
-# Hello there, I'm Adithya  
+# Hello there, I'm Sai ![SurfingNyanCatGIF](https://github.com/user-attachments/assets/659f524c-6a1a-4bd4-93c0-d01045d41402)
+
+ 
 mixing code, chaos & creativity through the cosmos with slurps of coffee ☕
 
 
