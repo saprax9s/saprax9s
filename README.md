@@ -1,4 +1,4 @@
-![CatBannerPixelBannerGIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDUwbHh4YW5udTVvbzV6YXVveDJqd2xtdTRweHhpeXh3YmtnNmJ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ir43BWIxhA4sV6PjuD/giphy.gif)
+
 ![catBanner2GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJpa3hycTUxMjVzeWZ3Z29keDk4YWY2eThkdW85d2p5NXRwd2ptdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hJSYQHeHGmGclnxtR1/giphy.gif)
 
 # Hello there, I'm Sai
@@ -34,4 +34,4 @@ mixing code, chaos & creativity through the cosmos with slurps of coffee ☕
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-sai-pratheek-700675327)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/adithyax9s)
 
-
+![CatBannerPixelBannerGIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDUwbHh4YW5udTVvbzV6YXVveDJqd2xtdTRweHhpeXh3YmtnNmJ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ir43BWIxhA4sV6PjuD/giphy.gif)
