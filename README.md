@@ -1,6 +1,5 @@
-# Hello there, I'm Sai ![SurfingNyanCatGIF](https://github.com/user-attachments/assets/659f524c-6a1a-4bd4-93c0-d01045d41402)
-
- 
+![CatHeartEyeGIF](https://github.com/user-attachments/assets/d2adb71e-561b-421a-9180-35ddc0486050)
+# Hello there, I'm Sai
 mixing code, chaos & creativity through the cosmos with slurps of coffee ☕
 
 
