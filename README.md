@@ -1,4 +1,5 @@
-# hi! i'm adithya 👋
+# Hello there, I'm Adithya 
+— mixing code, chaos & creativity through the cosmos with slurps of coffee
 
 ![stats graph](https://github-readme-stats.vercel.app/api?username=saprax9s&show_icons=true)
 ![languages graph](https://github-readme-stats.vercel.app/api/top-langs/?username=saprax9s&layout=compact)
