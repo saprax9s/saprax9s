@@ -1,4 +1,5 @@
-![CatHeartEyeGIF](https://github.com/user-attachments/assets/d2adb71e-561b-421a-9180-35ddc0486050)
+![CatBannerPixelBannerGIF](https://github.com/user-attachments/assets/1f6da07b-b73d-45b8-9c51-546a0f683037)
+
 # Hello there, I'm Sai
 mixing code, chaos & creativity through the cosmos with slurps of coffee ☕
 
