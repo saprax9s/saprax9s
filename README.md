@@ -1,4 +1,4 @@
-![CatBannerPixelBannerGIF](https://github.com/user-attachments/assets/1f6da07b-b73d-45b8-9c51-546a0f683037)
+![CatBannerPixelBannerGIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDUwbHh4YW5udTVvbzV6YXVveDJqd2xtdTRweHhpeXh3YmtnNmJ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ir43BWIxhA4sV6PjuD/giphy.gif)
 
 # Hello there, I'm Sai
 mixing code, chaos & creativity through the cosmos with slurps of coffee ☕
